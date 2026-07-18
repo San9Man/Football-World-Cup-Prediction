@@ -1,0 +1,12 @@
+# Workspace temporary folders and build scratch scripts
+uploads/
+*.mjs.tmp
+generate_*.mjs
+generate_*.py
+sim_*.mjs
+build_*.py
+
+# Dependency & OS files
+node_modules/
+.DS_Store
+.env
